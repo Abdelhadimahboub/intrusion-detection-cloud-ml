@@ -56,7 +56,7 @@ The dataset is not included in this repository because of its size.
 
 Download it from Kaggle:
 
-👉 **(Paste your Kaggle dataset link here)**
+👉 **https://www.kaggle.com/datasets/aryashah2k/nfuqnidsv2-network-intrusion-detection-dataset**
 
 After downloading:
 
